@@ -1,6 +1,5 @@
 # Warren - Stock Price Predictor
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0293f2ebda4c48ce9cbb0805d9fda2be)](https://www.codacy.com/gh/nityansuman/warren/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nityansuman/warren&amp;utm_campaign=Badge_Grade)
 ![GitHub](https://img.shields.io/github/license/nityansuman/warren)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nityansuman/warren)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nityansuman/warren)
